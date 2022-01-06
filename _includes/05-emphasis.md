@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Software I'm familiar with include *Python*, **MS office** and **_LateX_**
